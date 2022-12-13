@@ -183,6 +183,7 @@ a {
 .pr0_tabcontent {
   display: none;
   border-top: none;
+  margin-top: 80px;
 }
 
 @media only screen and (max-width: 768px) {
@@ -193,3 +194,15 @@ a {
   }
   
 }
+.proj{
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.proj_cap{
+  padding: 130px 100px 0 100px ;
+  min-height: 300px;
+  background-color: rgba(0, 0, 0, 0.404);
+}
+
+/* Single Project Section */
